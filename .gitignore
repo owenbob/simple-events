@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# test env file
+test.env
+
+# alembic versions
+alembic/versions/
